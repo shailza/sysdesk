@@ -1,0 +1,41 @@
+body{
+		background-size: cover;
+	}
+        .topp{
+        	height:100px;
+        	background-color:#0077BE;
+            color:white;
+            padding-left: 70px;
+            padding-top:30px;
+
+        }
+		.btn{
+			width:150px;
+			height:50px;
+			color: white;
+			background-color: black;
+			font-size: 25px;
+		}
+		#title{
+			font-size: 60px;
+		}
+		#butt{
+			position: fixed;
+			right:200px;
+		}
+		
+		.box{
+			height: 300px;
+			width:400px;
+			border-color: white;
+			border-style: solid;
+			margin:auto;
+			margin-top: 50px;
+			padding: 20px;
+
+		    }
+		    .temp{
+		    	color: white;
+		    	font-size: 20px;
+		    	height: 40px;
+		    }
